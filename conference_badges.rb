@@ -15,5 +15,7 @@ def assign_rooms(names)
   index = 0
   room_list = []
 
-  
+  names.each do |name|
+    
+  end
 end
